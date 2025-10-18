@@ -1,6 +1,7 @@
 ## Hello there! 👋
 
 🔭 I'm pursuing a master's degree in Computer Science at the University of Udine - Italy
+
 🎓 Bachelor Degree in in Statistics For Technology and Science - Univeristy of Padova - Italy
 
 <!--
